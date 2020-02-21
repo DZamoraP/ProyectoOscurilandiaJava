@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"OscurilandiaDefinitivo","l":"Caguano"},{"p":"OscurilandiaDefinitivo","l":"Carro"},{"p":"OscurilandiaDefinitivo","l":"Huevo"},{"p":"OscurilandiaDefinitivo","l":"Kromi"},{"p":"OscurilandiaDefinitivo","l":"Menu"},{"p":"OscurilandiaDefinitivo","l":"Tablero"},{"p":"OscurilandiaDefinitivo","l":"Trupalla"}]
